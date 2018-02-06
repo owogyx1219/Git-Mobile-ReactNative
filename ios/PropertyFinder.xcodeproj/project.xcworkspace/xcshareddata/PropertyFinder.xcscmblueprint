@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c830209f-e47d-4feb-a7dd-e718440f945f++3716",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c830209f-e47d-4feb-a7dd-e718440f945f++3716" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c830209f-e47d-4feb-a7dd-e718440f945f++3716" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AAB14620-2A90-4464-8247-203023DF87B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c830209f-e47d-4feb-a7dd-e718440f945f++3716" : "yuxigu2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PropertyFinder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment3.0\/PropertyFinder\/ios\/PropertyFinder.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.ews.illinois.edu\/svn\/fa17-cs242",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c830209f-e47d-4feb-a7dd-e718440f945f++3716"
+    }
+  ]
+}

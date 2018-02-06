@@ -1,0 +1,32 @@
+{
+	"name": "PropertyFinder",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"native-base": "^2.3.3",
+		"prop-types": "^15.6.0",
+		"react": "16.0.0-beta.5",
+		"react-native": "0.49.3",
+		"react-native-chart": "^1.0.8-beta",
+		"react-native-collapsible": "^0.9.0",
+		"react-native-vector-icons": "^4.4.2",
+		"react-navigation": "^1.0.0-beta.15",
+		"react-vis": "^1.7.9",
+		"victory": "^0.24.1",
+		"wd": "^1.4.1"
+	},
+	"devDependencies": {
+		"babel-jest": "21.2.0",
+		"babel-preset-react-native": "4.0.0",
+		"cavy": "^0.4.1",
+		"jest": "21.2.1",
+		"react-test-renderer": "16.0.0-beta.5"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}
